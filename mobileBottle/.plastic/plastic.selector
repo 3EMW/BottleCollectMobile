@@ -1,0 +1,4 @@
+repository "mobileBottle@JetBlackChocoPie@cloud"
+  path "/"
+    br "/main"
+    co "/main"

@@ -1,0 +1,680 @@
+fileFormatVersion: 2
+guid: 4d1a370c9620fe541be052673292e742
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: favpng_user-interface-design-game-button_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 660
+        width: 204
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da41e9b37d37f2b4489e3eaaa7208101
+      internalID: -2021926688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_user-interface-design-game-button_1
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 660
+        width: 210
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df301b4253a243d41880d9439186846f
+      internalID: 700710976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_user-interface-design-game-button_2
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 660
+        width: 104
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26e1e1d041c4cb646bd3fb8a7cd295c9
+      internalID: 1044783847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_user-interface-design-game-button_3
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 660
+        width: 104
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe559e29564965046b9c9f04139438b8
+      internalID: 1258045801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_user-interface-design-game-button_4
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 756
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77f9b924acf1e3448bc38f1f169ee252
+      internalID: -94449648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_user-interface-design-game-button_5
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 660
+        width: 108
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a129f7db56f485449d744534eb2b310
+      internalID: -972463867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_user-interface-design-game-button_6
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 660
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df3259468bb206545a615d41113e7a07
+      internalID: -1774190919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_user-interface-design-game-button_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6
+        width: 426
+        height: 630
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97d369981626e624588ee2f88d0d1c62
+      internalID: -1838636827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_user-interface-design-game-button_17
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 510
+        width: 90
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0e65253fb49fd640800e0559d5559bd
+      internalID: -2058608472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_user-interface-design-game-button_19
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 512
+        width: 105
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f62755d2569e1154c87bcccc5811fe72
+      internalID: -1804354913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_user-interface-design-game-button_20
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 512
+        width: 87
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ce2aeff02b191546a54331babfaa63c
+      internalID: -1919211841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_user-interface-design-game-button_21
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 511
+        width: 104
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b03c893d8be89d54f8b715b2952dc776
+      internalID: 1866608941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_user-interface-design-game-button_27
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 373
+        width: 107
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b3a82885ca39da46a6625043141baff
+      internalID: -1399843901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_user-interface-design-game-button_28
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 373
+        width: 99
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf6f132c7fbe1c744b3c3fd1ee909345
+      internalID: -1005550846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_user-interface-design-game-button_29
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 374
+        width: 116
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d3d93a6c19f25b47bc5292e3996b695
+      internalID: -430498406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_user-interface-design-game-button_30
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 372
+        width: 69
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21c098ecce4acde41a99c598d7d67b01
+      internalID: 767515358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_user-interface-design-game-button_34
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 245
+        width: 74
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52aad11caf39bac4ca685ad60817e5eb
+      internalID: 25136983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_user-interface-design-game-button_35
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 245
+        width: 100
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57e8b90cb2cceeb42a9614806e70e4c7
+      internalID: -639538538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_user-interface-design-game-button_36
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 245
+        width: 74
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1192ca2a7d9c20448a24bbd74594e4d0
+      internalID: 892263670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_user-interface-design-game-button_38
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 245
+        width: 103
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a7c62f0d61f5f244a6ea81b4f554fa1
+      internalID: -559540806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_user-interface-design-game-button_41
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 114
+        width: 486
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0fb021de3be65146bce93ffad3a5aec
+      internalID: -968311256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_user-interface-design-game-button_43
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 0
+        width: 468
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0f18e5cffee00447a907544016af514
+      internalID: 803627382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      favpng_user-interface-design-game-button_0: -2021926688
+      favpng_user-interface-design-game-button_1: 700710976
+      favpng_user-interface-design-game-button_10: -2121938937
+      favpng_user-interface-design-game-button_11: -1954875455
+      favpng_user-interface-design-game-button_12: -1106183891
+      favpng_user-interface-design-game-button_13: 288421534
+      favpng_user-interface-design-game-button_14: -1838636827
+      favpng_user-interface-design-game-button_15: 184743418
+      favpng_user-interface-design-game-button_16: -666982577
+      favpng_user-interface-design-game-button_17: -2058608472
+      favpng_user-interface-design-game-button_18: 421726178
+      favpng_user-interface-design-game-button_19: -1804354913
+      favpng_user-interface-design-game-button_2: 1044783847
+      favpng_user-interface-design-game-button_20: -1919211841
+      favpng_user-interface-design-game-button_21: 1866608941
+      favpng_user-interface-design-game-button_22: 1198444629
+      favpng_user-interface-design-game-button_23: -1017936789
+      favpng_user-interface-design-game-button_24: -1118050298
+      favpng_user-interface-design-game-button_25: 1658272397
+      favpng_user-interface-design-game-button_26: -716244359
+      favpng_user-interface-design-game-button_27: -1399843901
+      favpng_user-interface-design-game-button_28: -1005550846
+      favpng_user-interface-design-game-button_29: -430498406
+      favpng_user-interface-design-game-button_3: 1258045801
+      favpng_user-interface-design-game-button_30: 767515358
+      favpng_user-interface-design-game-button_31: 346078691
+      favpng_user-interface-design-game-button_32: -973108938
+      favpng_user-interface-design-game-button_33: 1769998446
+      favpng_user-interface-design-game-button_34: 25136983
+      favpng_user-interface-design-game-button_35: -639538538
+      favpng_user-interface-design-game-button_36: 892263670
+      favpng_user-interface-design-game-button_37: 732554409
+      favpng_user-interface-design-game-button_38: -559540806
+      favpng_user-interface-design-game-button_39: 1000988884
+      favpng_user-interface-design-game-button_4: -94449648
+      favpng_user-interface-design-game-button_40: 1794376915
+      favpng_user-interface-design-game-button_41: -968311256
+      favpng_user-interface-design-game-button_42: 1847556963
+      favpng_user-interface-design-game-button_43: 803627382
+      favpng_user-interface-design-game-button_44: -952059080
+      favpng_user-interface-design-game-button_45: -222358854
+      favpng_user-interface-design-game-button_46: 225561416
+      favpng_user-interface-design-game-button_5: -972463867
+      favpng_user-interface-design-game-button_6: -1774190919
+      favpng_user-interface-design-game-button_7: -359112197
+      favpng_user-interface-design-game-button_8: 1564910372
+      favpng_user-interface-design-game-button_9: 853725720
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
